@@ -1,0 +1,14 @@
+langchain
+ipykernel
+python-dotenv
+bs4
+arxiv
+pypdfloader
+pymupdf
+langchain_text_splitters
+langchain-openai
+sentence_transformers
+langchain_huggingface
+chromadb
+faiss-cpu
+streamlit
